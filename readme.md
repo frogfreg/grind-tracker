@@ -3,3 +3,4 @@
 | number | name | solved | 
 | --- | --- | --- |
 | 1 | two sum | yes |
+| 2 | valid parentheses | yes |
