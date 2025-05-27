@@ -2,4 +2,4 @@
 
 | number | name | solved | 
 | --- | --- | --- |
-| 1 | two sum | no  |
+| 1 | two sum | yes |
