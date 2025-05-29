@@ -9,3 +9,4 @@
 | 5 | Valid Palindrome | yes |
 | 6 | Invert Binary Tree | yes |
 | 7 | Valid Anagram | yes |
+| 8 | Binary search | yes |
