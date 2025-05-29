@@ -8,3 +8,4 @@
 | 4 | Best Time to Buy and Sell Stock | yes |
 | 5 | Valid Palindrome | yes |
 | 6 | Invert Binary Tree | yes |
+| 7 | Valid Anagram | yes |
