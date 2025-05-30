@@ -10,3 +10,8 @@
 | 6 | Invert Binary Tree | yes |
 | 7 | Valid Anagram | yes |
 | 8 | Binary search | yes |
+| 9 | Flood Fill | no |
+| 10 | Lower common ancestor of a binary search tree | no |
+| 11 | Balanced binary tree |no |
+| 12 | Linked list cycle | yes |
+| 13 | implement queue using stacks | no |
