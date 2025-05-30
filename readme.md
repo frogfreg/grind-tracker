@@ -13,6 +13,7 @@
 | Lower common ancestor of a binary search tree | yes |
 | Linked list cycle | yes |
 | ransom note | yes |
+| reverse linked list | yes |
 | Flood Fill | no |
 | Balanced binary tree | no |
 | implement queue using stacks | no |
