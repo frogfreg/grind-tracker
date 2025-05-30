@@ -10,8 +10,9 @@
 | Invert Binary Tree | yes |
 | Valid Anagram | yes |
 | Binary search | yes |
-| Flood Fill | no |
 | Lower common ancestor of a binary search tree | yes |
-| Balanced binary tree | no |
 | Linked list cycle | yes |
+| ransom note | yes |
+| Flood Fill | no |
+| Balanced binary tree | no |
 | implement queue using stacks | no |
