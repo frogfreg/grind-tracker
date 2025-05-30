@@ -11,7 +11,7 @@
 | Valid Anagram | yes |
 | Binary search | yes |
 | Flood Fill | no |
-| Lower common ancestor of a binary search tree | no |
-| Balanced binary tree |no |
+| Lower common ancestor of a binary search tree | yes |
+| Balanced binary tree | no |
 | Linked list cycle | yes |
 | implement queue using stacks | no |
