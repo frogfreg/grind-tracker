@@ -13,7 +13,7 @@
 | Binary Search | yes |
 | Flood Fill | yes |
 | Lowest Common Ancestor of a Binary Search Tree | yes |
-| Balanced Binary Tree | no |
+| Balanced Binary Tree | yes |
 | Linked List Cycle | yes |
 | Implement Queue using Stacks | no |
 | First Bad Version | no |
