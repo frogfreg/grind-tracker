@@ -16,7 +16,7 @@
 | Balanced Binary Tree | yes |
 | Linked List Cycle | yes |
 | Implement Queue using Stacks | no |
-| First Bad Version | no |
+| First Bad Version | yes |
 | Ransom Note | yes |
 | Climbing Stairs | no |
 | Longest Palindrome | no |
