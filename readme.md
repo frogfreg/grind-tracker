@@ -26,7 +26,7 @@
 | Diameter of Binary Tree | no |
 | Middle of the Linked List | no |
 | Maximum Depth of Binary Tree | no |
-| Contains Duplicate | no |
+| Contains Duplicate | yes |
 | Meeting Rooms | no |
 | Roman to Integer | no |
 | Backspace String Compare | no |
