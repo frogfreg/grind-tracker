@@ -21,7 +21,7 @@
 | Climbing Stairs | no |
 | Longest Palindrome | no |
 | Reverse Linked List | yes |
-| Majority Element | no |
+| Majority Element | yes |
 | Add Binary | no |
 | Diameter of Binary Tree | no |
 | Middle of the Linked List | no |
