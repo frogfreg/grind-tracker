@@ -19,7 +19,7 @@
 | First Bad Version | yes |
 | Ransom Note | yes |
 | Climbing Stairs | no |
-| Longest Palindrome | no |
+| Longest Palindrome | yes |
 | Reverse Linked List | yes |
 | Majority Element | yes |
 | Add Binary | no |
