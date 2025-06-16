@@ -28,7 +28,7 @@
 | Maximum Depth of Binary Tree | no |
 | Contains Duplicate | yes |
 | Maximum Subarray | no |
-| Insert Interval | no |
+| Insert Interval | yes |
 | 01 Matrix | no |
 | K Closest Points to Origin | no |
 | Longest Substring Without Repeating Characters | no |

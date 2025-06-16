@@ -45,7 +45,7 @@
 | Subtree of Another Tree | no |
 | Squares of a Sorted Array | no |
 | Maximum Subarray | no |
-| Insert Interval | no |
+| Insert Interval | yes |
 | 01 Matrix | no |
 | K Closest Points to Origin | no |
 | Longest Substring Without Repeating Characters | no |
