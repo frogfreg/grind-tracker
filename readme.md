@@ -25,7 +25,7 @@
 | Add Binary | no |
 | Diameter of Binary Tree | no |
 | Middle of the Linked List | yes |
-| Maximum Depth of Binary Tree | no |
+| Maximum Depth of Binary Tree | yes |
 | Contains Duplicate | yes |
 | Meeting Rooms | no |
 | Roman to Integer | no |
