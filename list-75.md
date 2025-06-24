@@ -24,7 +24,7 @@
 | Majority Element | yes |
 | Add Binary | no |
 | Diameter of Binary Tree | no |
-| Middle of the Linked List | no |
+| Middle of the Linked List | yes |
 | Maximum Depth of Binary Tree | no |
 | Contains Duplicate | yes |
 | Maximum Subarray | no |
