@@ -47,7 +47,7 @@
 | Maximum Subarray | no |
 | Insert Interval | yes |
 | 01 Matrix | no |
-| K Closest Points to Origin | no |
+| K Closest Points to Origin | yes |
 | Longest Substring Without Repeating Characters | no |
 | 3Sum | no |
 | Binary Tree Level Order Traversal | no |
