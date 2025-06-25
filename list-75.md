@@ -29,7 +29,7 @@
 | Contains Duplicate | yes |
 | Maximum Subarray | no |
 | Insert Interval | yes |
-| 01 Matrix | no |
+| 01 Matrix | yes |
 | K Closest Points to Origin | yes |
 | Longest Substring Without Repeating Characters | no |
 | 3Sum | no |
