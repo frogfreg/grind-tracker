@@ -51,7 +51,7 @@
 | Lowest Common Ancestor of a Binary Tree | no |
 | Time Based Key-Value Store | no |
 | Accounts Merge | no |
-| Sort Colors | no |
+| Sort Colors | yes |
 | Word Break | no |
 | Partition Equal Subset Sum | no |
 | String to Integer (atoi) | no |
