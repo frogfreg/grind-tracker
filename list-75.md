@@ -42,7 +42,7 @@
 | Product of Array Except Self | no |
 | Min Stack | no |
 | Validate Binary Search Tree | no |
-| Number of Islands | no |
+| Number of Islands | yes |
 | Rotting Oranges | no |
 | Search in Rotated Sorted Array | no |
 | Combination Sum | no |
