@@ -55,7 +55,7 @@
 | Evaluate Reverse Polish Notation | no |
 | Course Schedule | no |
 | Implement Trie (Prefix Tree) | no |
-| Coin Change | no |
+| Coin Change | yes |
 | Product of Array Except Self | no |
 | Min Stack | no |
 | Validate Binary Search Tree | no |
