@@ -39,7 +39,7 @@
 | Course Schedule | no |
 | Implement Trie (Prefix Tree) | no |
 | Coin Change | yes |
-| Product of Array Except Self | no |
+| Product of Array Except Self | yes |
 | Min Stack | no |
 | Validate Binary Search Tree | no |
 | Number of Islands | yes |
