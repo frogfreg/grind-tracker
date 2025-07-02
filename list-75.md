@@ -27,7 +27,7 @@
 | Middle of the Linked List | yes |
 | Maximum Depth of Binary Tree | yes |
 | Contains Duplicate | yes |
-| Maximum Subarray | no |
+| Maximum Subarray | yes |
 | Insert Interval | yes |
 | 01 Matrix | yes |
 | K Closest Points to Origin | yes |

@@ -44,7 +44,7 @@
 | Reverse Bits | no |
 | Subtree of Another Tree | no |
 | Squares of a Sorted Array | no |
-| Maximum Subarray | no |
+| Maximum Subarray | yes |
 | Insert Interval | yes |
 | 01 Matrix | yes |
 | K Closest Points to Origin | yes |
