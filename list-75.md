@@ -31,7 +31,7 @@
 | Insert Interval | yes |
 | 01 Matrix | yes |
 | K Closest Points to Origin | yes |
-| Longest Substring Without Repeating Characters | no |
+| Longest Substring Without Repeating Characters | yes |
 | 3Sum | no |
 | Binary Tree Level Order Traversal | no |
 | Clone Graph | no |
