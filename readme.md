@@ -50,7 +50,7 @@
 | K Closest Points to Origin | yes |
 | Longest Substring Without Repeating Characters | yes |
 | 3Sum | no |
-| Binary Tree Level Order Traversal | no |
+| Binary Tree Level Order Traversal | yes |
 | Clone Graph | no |
 | Evaluate Reverse Polish Notation | no |
 | Course Schedule | no |
