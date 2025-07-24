@@ -62,7 +62,7 @@
 | Unique Paths | no |
 | Construct Binary Tree from Preorder and Inorder Traversal | no |
 | Container With Most Water | no |
-| Letter Combinations of a Phone Number | no |
+| Letter Combinations of a Phone Number | yes |
 | Word Search | yes |
 | Find All Anagrams in a String | yes |
 | Minimum Height Trees | no |
