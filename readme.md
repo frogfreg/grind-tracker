@@ -80,7 +80,7 @@
 | Construct Binary Tree from Preorder and Inorder Traversal | no |
 | Container With Most Water | no |
 | Letter Combinations of a Phone Number | no |
-| Word Search | no |
+| Word Search | yes |
 | Find All Anagrams in a String | yes |
 | Minimum Height Trees | no |
 | Task Scheduler | no |
