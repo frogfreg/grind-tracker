@@ -53,7 +53,7 @@
 | Binary Tree Level Order Traversal | yes |
 | Clone Graph | no |
 | Evaluate Reverse Polish Notation | no |
-| Course Schedule | no |
+| Course Schedule | yes |
 | Implement Trie (Prefix Tree) | no |
 | Coin Change | yes |
 | Product of Array Except Self | yes |
