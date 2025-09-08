@@ -23,7 +23,7 @@
 | Reverse Linked List | yes |
 | Majority Element | yes |
 | Add Binary | no |
-| Diameter of Binary Tree | no |
+| Diameter of Binary Tree | yes |
 | Middle of the Linked List | yes |
 | Maximum Depth of Binary Tree | yes |
 | Contains Duplicate | yes |
