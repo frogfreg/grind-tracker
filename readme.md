@@ -51,7 +51,7 @@
 | Longest Substring Without Repeating Characters | yes |
 | 3Sum | no |
 | Binary Tree Level Order Traversal | yes |
-| Clone Graph | no |
+| Clone Graph | yes |
 | Evaluate Reverse Polish Notation | no |
 | Course Schedule | yes |
 | Implement Trie (Prefix Tree) | no |
