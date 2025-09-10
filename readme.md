@@ -58,7 +58,7 @@
 | Coin Change | yes |
 | Product of Array Except Self | yes |
 | Min Stack | no |
-| Validate Binary Search Tree | no |
+| Validate Binary Search Tree | yes |
 | Number of Islands | yes |
 | Rotting Oranges | no |
 | Search in Rotated Sorted Array | no |
