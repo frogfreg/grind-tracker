@@ -44,7 +44,7 @@
 | Validate Binary Search Tree | yes |
 | Number of Islands | yes |
 | Rotting Oranges | no |
-| Search in Rotated Sorted Array | no |
+| Search in Rotated Sorted Array | yes |
 | Combination Sum | no |
 | Permutations | no |
 | Merge Intervals | no |
