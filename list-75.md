@@ -43,7 +43,7 @@
 | Min Stack | no |
 | Validate Binary Search Tree | yes |
 | Number of Islands | yes |
-| Rotting Oranges | no |
+| Rotting Oranges | yes |
 | Search in Rotated Sorted Array | yes |
 | Combination Sum | no |
 | Permutations | no |
