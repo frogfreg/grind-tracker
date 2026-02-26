@@ -76,7 +76,7 @@
 | Subsets | no |
 | Binary Tree Right Side View | no |
 | Longest Palindromic Substring | no |
-| Unique Paths | no |
+| Unique Paths | yes |
 | Construct Binary Tree from Preorder and Inorder Traversal | no |
 | Container With Most Water | yes |
 | Letter Combinations of a Phone Number | yes |
