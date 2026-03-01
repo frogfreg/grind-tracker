@@ -87,7 +87,7 @@
 | LRU Cache | no |
 | Kth Smallest Element in a BST | no |
 | Daily Temperatures | no |
-| House Robber | no |
+| House Robber | yes |
 | Gas Station | no |
 | Next Permutation | no |
 | Valid Sudoku | no |
