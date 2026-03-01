@@ -49,7 +49,7 @@
 | 01 Matrix | yes |
 | K Closest Points to Origin | yes |
 | Longest Substring Without Repeating Characters | yes |
-| 3Sum | no |
+| 3Sum | yes |
 | Binary Tree Level Order Traversal | yes |
 | Clone Graph | yes |
 | Evaluate Reverse Polish Notation | no |
